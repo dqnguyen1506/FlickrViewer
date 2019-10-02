@@ -1,0 +1,95 @@
+using System;
+
+public class Program
+{
+
+    public static void Main()
+    {
+        Number myNumber = new Number(100000);
+        myNumber.PrintMoney();
+        myNumber.PrintNumber();
+    }
+}
+
+class Number
+{
+    private PrintHelper _printHelper;
+
+    public Number(int val)
+    {
+        _value = val;
+
+        _printHelper = new PrintHelper();
+        _printHelper.beforePrintEvent += printHelper_beforePrintEvent;
+        _printHelper.beforePrintEventNoD += printHelper_beforePrintEventNoD;
+    }
+    //beforePrintevent handler
+    static void printHelper_beforePrintEvent(object sender, beforePrintEventEventArgs e)
+    {
+        Console.WriteLine("BeforPrintEventNoDHandler: " + e.name + "is going to print a value");
+    }
+    static void printHelper_beforePrintEventNoD(Object sender, EventArgs e)
+    {
+        Console.WriteLine("BeforPrintEventHandler: beforePrintEvent is going to print a value");
+    }
+
+    private int _value;
+
+    public int Value
+    {
+        get { return _value; }
+        set { _value = value; }
+    }
+
+    public void PrintMoney()
+    {     
+        _printHelper.PrintMoney(_value);
+    }
+
+    public void PrintNumber()
+    {
+        _printHelper.PrintNumber(_value);
+    }
+}
+
+public class PrintHelper
+{
+
+    //declare event of type delegate
+    public event EventHandler<beforePrintEventEventArgs> beforePrintEvent;
+
+    public event EventHandler beforePrintEventNoD;
+
+    //public event BeforePrintNoD beforePrintEventNoD;
+    public PrintHelper()
+    {
+
+    }
+
+    public void PrintNumber(int num)
+    {
+        //call delegate method before going to print
+        beforePrintEventEventArgs args = new beforePrintEventEventArgs();
+        args.value = num;
+        args.name = "PrintNumber";
+        beforePrintEvent?.Invoke(this,args);
+        beforePrintEventNoD?.Invoke(this, EventArgs.Empty);
+        Console.WriteLine("Number: {0,-12:N0}", num);
+    }
+
+    public void PrintMoney(int num)
+    {
+        beforePrintEventEventArgs args = new beforePrintEventEventArgs();
+        args.value = num;
+        args.name = "PrintMoney";
+        beforePrintEvent?.Invoke(this, args);
+        beforePrintEventNoD?.Invoke(this, EventArgs.Empty);
+        Console.WriteLine("Money: {0:C}", num);
+    }
+}
+public class beforePrintEventEventArgs : EventArgs
+{
+    public int value { get; set; }
+    public string name { get; set; }
+}
+

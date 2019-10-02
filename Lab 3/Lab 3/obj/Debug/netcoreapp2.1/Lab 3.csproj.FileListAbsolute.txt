@@ -1,0 +1,22 @@
+C:\Users\dungq\Documents\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.deps.json
+C:\Users\dungq\Documents\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.runtimeconfig.json
+C:\Users\dungq\Documents\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.runtimeconfig.dev.json
+C:\Users\dungq\Documents\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.dll
+C:\Users\dungq\Documents\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.pdb
+C:\Users\dungq\Documents\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\dungq\Documents\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.AssemblyInfoInputs.cache
+C:\Users\dungq\Documents\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.AssemblyInfo.cs
+C:\Users\dungq\Documents\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.dll
+C:\Users\dungq\Documents\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.deps.json
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.runtimeconfig.json
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.runtimeconfig.dev.json
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.dll
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\bin\Debug\netcoreapp2.1\Lab 3.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.AssemblyInfoInputs.cache
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.AssemblyInfo.cs
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.dll
+C:\Users\dungq\Documents\CECS 475\Lab 3\Lab 3\obj\Debug\netcoreapp2.1\Lab 3.pdb

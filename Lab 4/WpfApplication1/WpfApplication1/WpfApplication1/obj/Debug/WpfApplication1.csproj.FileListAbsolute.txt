@@ -1,0 +1,65 @@
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\pnguyen\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+F:\cecs475sp17\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+F:\cecs475sp17\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+F:\cecs475sp17\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\cecs475sp17\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\cecs475sp17\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\cecs475sp17\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\App.baml
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\dungq\Documents\CECS 475\Lab 4\WpfApplication1\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb

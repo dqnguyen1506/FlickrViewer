@@ -1,0 +1,6 @@
+C:\cecs475\demonstrations\netevent\netevent2\netevent2\bin\Debug\netevent2.exe.config
+C:\cecs475\demonstrations\netevent\netevent2\netevent2\bin\Debug\netevent2.exe
+C:\cecs475\demonstrations\netevent\netevent2\netevent2\bin\Debug\netevent2.pdb
+C:\cecs475\demonstrations\netevent\netevent2\netevent2\obj\Debug\netevent2.csprojResolveAssemblyReference.cache
+C:\cecs475\demonstrations\netevent\netevent2\netevent2\obj\Debug\netevent2.exe
+C:\cecs475\demonstrations\netevent\netevent2\netevent2\obj\Debug\netevent2.pdb

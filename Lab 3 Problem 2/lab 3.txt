@@ -1,0 +1,54 @@
+Broker    Stock          Value     Changes   Timestamp
+Broker 2  Banking        102       4         9/23/2019 12:44:30 PM
+Broker 3  Banking        102       4         9/23/2019 12:44:30 PM
+Broker 4  Banking        102       4         9/23/2019 12:44:30 PM
+Broker 2  Banking        103       5         9/23/2019 12:44:31 PM
+Broker 3  Banking        103       5         9/23/2019 12:44:31 PM
+Broker 4  Banking        103       5         9/23/2019 12:44:31 PM
+Broker 2  Banking        106       6         9/23/2019 12:44:31 PM
+Broker 3  Banking        106       6         9/23/2019 12:44:31 PM
+Broker 4  Banking        106       6         9/23/2019 12:44:31 PM
+Broker 1  Retail         37        7         9/23/2019 12:44:32 PM
+Broker 2  Commodity      558       7         9/23/2019 12:44:32 PM
+Broker 4  Retail         37        7         9/23/2019 12:44:32 PM
+Broker 4  Commodity      558       7         9/23/2019 12:44:32 PM
+Broker 2  Banking        109       7         9/23/2019 12:44:32 PM
+Broker 3  Banking        109       7         9/23/2019 12:44:32 PM
+Broker 4  Banking        109       7         9/23/2019 12:44:32 PM
+Broker 1  Technology     179       8         9/23/2019 12:44:32 PM
+Broker 2  Technology     179       8         9/23/2019 12:44:32 PM
+Broker 3  Technology     179       8         9/23/2019 12:44:32 PM
+Broker 1  Retail         38        8         9/23/2019 12:44:32 PM
+Broker 2  Commodity      570       8         9/23/2019 12:44:32 PM
+Broker 4  Technology     179       8         9/23/2019 12:44:32 PM
+Broker 4  Retail         38        8         9/23/2019 12:44:32 PM
+Broker 4  Commodity      570       8         9/23/2019 12:44:32 PM
+Broker 2  Banking        110       8         9/23/2019 12:44:32 PM
+Broker 3  Banking        110       8         9/23/2019 12:44:32 PM
+Broker 4  Banking        110       8         9/23/2019 12:44:32 PM
+Broker 1  Technology     181       9         9/23/2019 12:44:33 PM
+Broker 1  Retail         39        9         9/23/2019 12:44:33 PM
+Broker 2  Technology     181       9         9/23/2019 12:44:33 PM
+Broker 4  Retail         39        9         9/23/2019 12:44:33 PM
+Broker 2  Commodity      575       9         9/23/2019 12:44:33 PM
+Broker 3  Technology     181       9         9/23/2019 12:44:33 PM
+Broker 4  Commodity      575       9         9/23/2019 12:44:33 PM
+Broker 4  Technology     181       9         9/23/2019 12:44:33 PM
+Broker 2  Banking        113       9         9/23/2019 12:44:33 PM
+Broker 3  Banking        113       9         9/23/2019 12:44:33 PM
+Broker 4  Banking        113       9         9/23/2019 12:44:33 PM
+Broker 1  Retail         40        10        9/23/2019 12:44:33 PM
+Broker 4  Retail         40        10        9/23/2019 12:44:33 PM
+Broker 2  Commodity      577       10        9/23/2019 12:44:33 PM
+Broker 1  Technology     183       10        9/23/2019 12:44:33 PM
+Broker 4  Commodity      577       10        9/23/2019 12:44:33 PM
+Broker 2  Technology     183       10        9/23/2019 12:44:33 PM
+Broker 3  Technology     183       10        9/23/2019 12:44:33 PM
+Broker 2  Banking        115       10        9/23/2019 12:44:33 PM
+Broker 4  Technology     183       10        9/23/2019 12:44:33 PM
+Broker 3  Banking        115       10        9/23/2019 12:44:33 PM
+Broker 4  Banking        115       10        9/23/2019 12:44:33 PM
+
+C:\Program Files\dotnet\dotnet.exe (process 10028) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
