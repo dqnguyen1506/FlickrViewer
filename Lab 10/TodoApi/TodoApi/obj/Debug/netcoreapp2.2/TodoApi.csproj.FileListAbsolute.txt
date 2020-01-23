@@ -1,0 +1,16 @@
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\dungq\Documents\CECS 475\Lab 10\TodoApi\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb

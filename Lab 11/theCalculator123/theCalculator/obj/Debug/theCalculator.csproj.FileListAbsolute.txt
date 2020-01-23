@@ -1,0 +1,11 @@
+C:\Users\tacos\source\repos\theCalculator\bin\Debug\theCalculator.dll
+C:\Users\tacos\source\repos\theCalculator\bin\Debug\theCalculator.pdb
+C:\Users\tacos\source\repos\theCalculator\obj\Debug\theCalculator.csprojAssemblyReference.cache
+C:\Users\tacos\source\repos\theCalculator\obj\Debug\theCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tacos\source\repos\theCalculator\obj\Debug\theCalculator.dll
+C:\Users\tacos\source\repos\theCalculator\obj\Debug\theCalculator.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 11\theCalculator123\theCalculator\bin\Debug\theCalculator.dll
+C:\Users\dungq\Documents\CECS 475\Lab 11\theCalculator123\theCalculator\bin\Debug\theCalculator.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 11\theCalculator123\theCalculator\obj\Debug\theCalculator.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\theCalculator123\theCalculator\obj\Debug\theCalculator.dll
+C:\Users\dungq\Documents\CECS 475\Lab 11\theCalculator123\theCalculator\obj\Debug\theCalculator.pdb

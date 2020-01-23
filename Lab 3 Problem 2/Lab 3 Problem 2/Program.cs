@@ -4,17 +4,18 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace Lab_3_Problem_2
 {
     class Stock
     {
-        string name;
-        int InitialValue; //stock price
-        int MaxChange; //stock price change
-        int notificationThreshold; //the value to measure the change of the stock for raising the event
-        int currentValue;
-        int numberChanges;
+        public string name;
+        public int InitialValue; //stock price
+        public int MaxChange; //stock price change
+        public int notificationThreshold; //the value to measure the change of the stock for raising the event
+        public int currentValue;
+        public int numberChanges;
         public Stock(string name, int startingValue, int MaxChange, int threshold)
         {
             this.name = name;
@@ -62,7 +63,7 @@ namespace Lab_3_Problem_2
     }
     class StockBroker //listener
     {
-        string path = @"C:\Users\dungq\Documents\WriteLines.txt";
+        string path = @"C:\Users\dungq\Documents\CECS 475\Lab 3 Problem 2\lab 3.txt";
         public static ReaderWriterLockSlim newLockBoi = new ReaderWriterLockSlim();
         Stock stock;
         string brokerName;
@@ -78,26 +79,37 @@ namespace Lab_3_Problem_2
             stock.stockEvent += notify;
         }
         //Event Handler
-        void notify(object sender, EventData e)
+        public async void notify(object sender, EventData e)
         {
-            string s = this.brokerName.PadRight(10) + e.name.PadRight(15) + e.currentValue.ToString().PadRight(10) + e.numberChanges.ToString().PadRight(10) + DateTime.Now;
-            Console.WriteLine(s);
+
+            await writeFile((Stock) sender);
+        }
+        public async Task writeFile(Stock e)
+        {
+            string s;
+            String out0 = brokerName.ToString();
+            String out1 = e.name.ToString();
+            String out2 = e.currentValue.ToString();
+            String out3 = e.numberChanges.ToString();
+
+            s = out0.PadRight(10) + out1.PadRight(10) + out2.PadRight(10) + out3.PadRight(10) + DateTime.Now;
+
             newLockBoi.EnterWriteLock();
-            using(StreamWriter outputFile = new StreamWriter(path, true))
+            Console.WriteLine(s);
+            using (StreamWriter outputFile = new StreamWriter(path, true))
             {
-                outputFile.WriteAsync(s + "\n");
+                await outputFile.WriteAsync(s + "\n");
             }
             newLockBoi.ExitWriteLock();
-
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            if (File.Exists(@"C:\Users\dungq\Documents\WriteLine.txt"))
+            if (File.Exists(@"C:\Users\dungq\Documents\CECS 475\Lab 3 Problem 2\lab 3.txt"))
             {
-                File.Delete(@"C:\Users\dungq\Documents\WriteLines.txt");
+                File.Delete(@"C:\Users\dungq\Documents\CECS 475\Lab 3 Problem 2\lab 3.txt");
             }
             Stock stock1 = new Stock("Technology", 160, 5, 15);
             Stock stock2 = new Stock("Retail", 30, 2, 6);

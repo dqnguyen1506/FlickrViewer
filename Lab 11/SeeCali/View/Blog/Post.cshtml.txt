@@ -1,0 +1,6 @@
+@model SeeCali.Models.Post
+@{
+    Layout = "Layout";
+}
+
+@await Html.PartialAsync("_Post28")

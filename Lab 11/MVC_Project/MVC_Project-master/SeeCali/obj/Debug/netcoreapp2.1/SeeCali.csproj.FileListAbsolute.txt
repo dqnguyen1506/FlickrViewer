@@ -1,0 +1,98 @@
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.deps.json
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.runtimeconfig.json
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.runtimeconfig.dev.json
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.dll
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.pdb
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csprojAssemblyReference.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csproj.CoreCompileInputs.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorAssemblyInfo.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorAssemblyInfo.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.AssemblyInfoInputs.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.AssemblyInfo.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorTargetAssemblyInfo.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.dll
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.pdb
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.Views.dll
+C:\Users\tacos\source\repos\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.Views.pdb
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.TagHelpers.input.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.TagHelpers.output.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorCoreGenerate.cache
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorTargetAssemblyInfo.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.Views.pdb
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csproj.CopyComplete
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Layout.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\index.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Post.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Post.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MonthlySpecials\Default.g.cshtml.cs
+C:\Users\tacos\source\repos\SeeCali\obj\Debug\netcoreapp2.1\Razor\_ViewStart.g.cshtml.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.deps.json
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.runtimeconfig.json
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.runtimeconfig.dev.json
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.dll
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.pdb
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.Views.dll
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.Views.pdb
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csprojAssemblyReference.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorAssemblyInfo.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorAssemblyInfo.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.AssemblyInfoInputs.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.AssemblyInfo.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.TagHelpers.input.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.TagHelpers.output.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorCoreGenerate.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\index.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Post.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MonthlySpecials\Default.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Layout.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\_ViewStart.cshtml.g.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorTargetAssemblyInfo.cache
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorTargetAssemblyInfo.cs
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.Views.pdb
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.dll
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.pdb
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csproj.CopyComplete
+C:\Users\CaveDeveloper\Source\Repos\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Post28.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.deps.json
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.runtimeconfig.json
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.runtimeconfig.dev.json
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.dll
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.Views.dll
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\bin\Debug\netcoreapp2.1\SeeCali.Views.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorAssemblyInfo.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorAssemblyInfo.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.AssemblyInfoInputs.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.AssemblyInfo.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.TagHelpers.input.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.TagHelpers.output.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorCoreGenerate.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\index.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Blog\Post.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\MonthlySpecials\Default.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Layout.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Post28.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\Razor\_ViewStart.cshtml.g.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorTargetAssemblyInfo.cache
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.RazorTargetAssemblyInfo.cs
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.Views.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.dll
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.pdb
+C:\Users\dungq\Documents\CECS 475\Lab 11\MVC_Project\MVC_Project-master\SeeCali\obj\Debug\netcoreapp2.1\SeeCali.csproj.CopyComplete

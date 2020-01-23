@@ -1,54 +1,55 @@
-Broker    Stock          Value     Changes   Timestamp
-Broker 2  Banking        102       4         9/23/2019 12:44:30 PM
-Broker 3  Banking        102       4         9/23/2019 12:44:30 PM
-Broker 4  Banking        102       4         9/23/2019 12:44:30 PM
-Broker 2  Banking        103       5         9/23/2019 12:44:31 PM
-Broker 3  Banking        103       5         9/23/2019 12:44:31 PM
-Broker 4  Banking        103       5         9/23/2019 12:44:31 PM
-Broker 2  Banking        106       6         9/23/2019 12:44:31 PM
-Broker 3  Banking        106       6         9/23/2019 12:44:31 PM
-Broker 4  Banking        106       6         9/23/2019 12:44:31 PM
-Broker 1  Retail         37        7         9/23/2019 12:44:32 PM
-Broker 2  Commodity      558       7         9/23/2019 12:44:32 PM
-Broker 4  Retail         37        7         9/23/2019 12:44:32 PM
-Broker 4  Commodity      558       7         9/23/2019 12:44:32 PM
-Broker 2  Banking        109       7         9/23/2019 12:44:32 PM
-Broker 3  Banking        109       7         9/23/2019 12:44:32 PM
-Broker 4  Banking        109       7         9/23/2019 12:44:32 PM
-Broker 1  Technology     179       8         9/23/2019 12:44:32 PM
-Broker 2  Technology     179       8         9/23/2019 12:44:32 PM
-Broker 3  Technology     179       8         9/23/2019 12:44:32 PM
-Broker 1  Retail         38        8         9/23/2019 12:44:32 PM
-Broker 2  Commodity      570       8         9/23/2019 12:44:32 PM
-Broker 4  Technology     179       8         9/23/2019 12:44:32 PM
-Broker 4  Retail         38        8         9/23/2019 12:44:32 PM
-Broker 4  Commodity      570       8         9/23/2019 12:44:32 PM
-Broker 2  Banking        110       8         9/23/2019 12:44:32 PM
-Broker 3  Banking        110       8         9/23/2019 12:44:32 PM
-Broker 4  Banking        110       8         9/23/2019 12:44:32 PM
-Broker 1  Technology     181       9         9/23/2019 12:44:33 PM
-Broker 1  Retail         39        9         9/23/2019 12:44:33 PM
-Broker 2  Technology     181       9         9/23/2019 12:44:33 PM
-Broker 4  Retail         39        9         9/23/2019 12:44:33 PM
-Broker 2  Commodity      575       9         9/23/2019 12:44:33 PM
-Broker 3  Technology     181       9         9/23/2019 12:44:33 PM
-Broker 4  Commodity      575       9         9/23/2019 12:44:33 PM
-Broker 4  Technology     181       9         9/23/2019 12:44:33 PM
-Broker 2  Banking        113       9         9/23/2019 12:44:33 PM
-Broker 3  Banking        113       9         9/23/2019 12:44:33 PM
-Broker 4  Banking        113       9         9/23/2019 12:44:33 PM
-Broker 1  Retail         40        10        9/23/2019 12:44:33 PM
-Broker 4  Retail         40        10        9/23/2019 12:44:33 PM
-Broker 2  Commodity      577       10        9/23/2019 12:44:33 PM
-Broker 1  Technology     183       10        9/23/2019 12:44:33 PM
-Broker 4  Commodity      577       10        9/23/2019 12:44:33 PM
-Broker 2  Technology     183       10        9/23/2019 12:44:33 PM
-Broker 3  Technology     183       10        9/23/2019 12:44:33 PM
-Broker 2  Banking        115       10        9/23/2019 12:44:33 PM
-Broker 4  Technology     183       10        9/23/2019 12:44:33 PM
-Broker 3  Banking        115       10        9/23/2019 12:44:33 PM
-Broker 4  Banking        115       10        9/23/2019 12:44:33 PM
-
-C:\Program Files\dotnet\dotnet.exe (process 10028) exited with code 0.
-To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
-Press any key to close this window . . .
+Broker 2  Commodity 555       5         11/13/2019 2:28:47 PM
+Broker 4  Commodity 555       5         11/13/2019 2:28:47 PM
+Broker 1  Technology177       6         11/13/2019 2:28:47 PM
+Broker 2  Technology177       6         11/13/2019 2:28:47 PM
+Broker 3  Technology177       6         11/13/2019 2:28:47 PM
+Broker 2  Banking   102       6         11/13/2019 2:28:47 PM
+Broker 4  Technology177       6         11/13/2019 2:28:47 PM
+Broker 3  Banking   102       6         11/13/2019 2:28:47 PM
+Broker 4  Banking   102       6         11/13/2019 2:28:47 PM
+Broker 2  Commodity 569       6         11/13/2019 2:28:47 PM
+Broker 4  Commodity 569       6         11/13/2019 2:28:47 PM
+Broker 1  Retail    37        7         11/13/2019 2:28:48 PM
+Broker 4  Retail    37        7         11/13/2019 2:28:48 PM
+Broker 1  Technology180       7         11/13/2019 2:28:48 PM
+Broker 2  Technology180       7         11/13/2019 2:28:48 PM
+Broker 2  Banking   104       7         11/13/2019 2:28:48 PM
+Broker 3  Banking   104       7         11/13/2019 2:28:48 PM
+Broker 4  Banking   104       7         11/13/2019 2:28:48 PM
+Broker 3  Technology180       7         11/13/2019 2:28:48 PM
+Broker 4  Technology180       7         11/13/2019 2:28:48 PM
+Broker 2  Commodity 586       7         11/13/2019 2:28:48 PM
+Broker 4  Commodity 586       7         11/13/2019 2:28:48 PM
+Broker 1  Retail    38        8         11/13/2019 2:28:48 PM
+Broker 4  Retail    38        8         11/13/2019 2:28:48 PM
+Broker 2  Banking   105       8         11/13/2019 2:28:48 PM
+Broker 3  Banking   105       8         11/13/2019 2:28:48 PM
+Broker 1  Technology184       8         11/13/2019 2:28:48 PM
+Broker 2  Technology184       8         11/13/2019 2:28:48 PM
+Broker 3  Technology184       8         11/13/2019 2:28:48 PM
+Broker 4  Technology184       8         11/13/2019 2:28:48 PM
+Broker 4  Banking   105       8         11/13/2019 2:28:48 PM
+Broker 2  Commodity 603       8         11/13/2019 2:28:48 PM
+Broker 4  Commodity 603       8         11/13/2019 2:28:48 PM
+Broker 1  Retail    39        9         11/13/2019 2:28:49 PM
+Broker 4  Retail    39        9         11/13/2019 2:28:49 PM
+Broker 1  Technology185       9         11/13/2019 2:28:49 PM
+Broker 2  Banking   107       9         11/13/2019 2:28:49 PM
+Broker 2  Technology185       9         11/13/2019 2:28:49 PM
+Broker 3  Technology185       9         11/13/2019 2:28:49 PM
+Broker 4  Technology185       9         11/13/2019 2:28:49 PM
+Broker 3  Banking   107       9         11/13/2019 2:28:49 PM
+Broker 2  Commodity 617       9         11/13/2019 2:28:49 PM
+Broker 4  Banking   107       9         11/13/2019 2:28:49 PM
+Broker 4  Commodity 617       9         11/13/2019 2:28:49 PM
+Broker 1  Retail    40        10        11/13/2019 2:28:49 PM
+Broker 4  Retail    40        10        11/13/2019 2:28:49 PM
+Broker 1  Technology189       10        11/13/2019 2:28:49 PM
+Broker 2  Technology189       10        11/13/2019 2:28:49 PM
+Broker 3  Technology189       10        11/13/2019 2:28:49 PM
+Broker 2  Banking   110       10        11/13/2019 2:28:49 PM
+Broker 3  Banking   110       10        11/13/2019 2:28:49 PM
+Broker 4  Banking   110       10        11/13/2019 2:28:49 PM
+Broker 2  Commodity 634       10        11/13/2019 2:28:49 PM
+Broker 4  Technology189       10        11/13/2019 2:28:49 PM
+Broker 4  Commodity 634       10        11/13/2019 2:28:49 PM
