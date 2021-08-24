@@ -28,3 +28,12 @@ C:\Users\dungq\Documents\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\o
 C:\Users\dungq\Documents\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
 C:\Users\dungq\Documents\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
 C:\Users\dungq\Documents\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csprojAssemblyReference.cache
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FlickrViewerForm.resources
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.cache
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+C:\Users\dungq\Documents\CECS\Fall 2019\CECS 475\Lab 8\FlickrViewer\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb
